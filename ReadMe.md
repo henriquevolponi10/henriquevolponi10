@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Engenheiro de Software | Estudante de Engenharia da Computação<br>🤝 A procura do primeiro estágio 
+🔭 Engenheiro da Computação | Estudante de Engenharia da Computação<br>🤝 A procura do primeiro estágio 
 
 
 ## 🌐 Socials:
