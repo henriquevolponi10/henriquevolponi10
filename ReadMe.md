@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Engenheiro da Computação | Estudante de Engenharia da Computação<br>🤝 A procura do primeiro estágio<br>⌛ Segundo período do curso Engenharia da computação 
+🔭 Engenheiro da Computação | Estudante de Engenharia da Computação<br>🤝 A procura do primeiro estágio<br>⌛ Segundo período do curso Engenharia da computação - Puc Minas
 
 
 ## 🌐 Socials:
