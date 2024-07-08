@@ -52,10 +52,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=henriquevolponi10&theme=blueberry&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=henriquevolponi10&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
-
-[![](https://visitcount.itsvg.in/api?id=henriquevolponi10&icon=6&color=3)](https://visitcount.itsvg.in)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
 
@@ -63,10 +59,4 @@
 
 <img src="https://raw.githubusercontent.com/henriquevolponi10/henriquevolponi10/output/snake.svg" alt="Snake animation" />
 
-###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/henriquevolponi10/count.svg?"  />
-</div>
-
-###
